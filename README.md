@@ -48,7 +48,7 @@ random_state=0)
  mse = mean_squared_error(y_test,y_pred)
  print("Mean Squared Error:",mse)
  print("\nPredictions:\n",y_pred[:5])
-
+```
 ## Output:
 [experiment no.04 (ML) (1).pdf](https://github.com/user-attachments/files/17848167/experiment.no.04.ML.1.pdf)
 
