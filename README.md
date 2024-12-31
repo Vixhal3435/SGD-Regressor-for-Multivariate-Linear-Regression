@@ -50,7 +50,8 @@ random_state=0)
  print("\nPredictions:\n",y_pred[:5])
 ```
 ## Output:
-[experiment no.04 (ML) (1).pdf](https://github.com/user-attachments/files/17848167/experiment.no.04.ML.1.pdf)
+![image](https://github.com/user-attachments/assets/0f059952-5a85-4c78-9a8a-328c8636d7a7)
+
 
 
 
