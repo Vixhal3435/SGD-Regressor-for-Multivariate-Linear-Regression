@@ -8,10 +8,30 @@ To write a program to predict the price of the house and number of occupants in 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.Define the Problem
+Identify the dependent variable (Y) and independent variables (X1, X2, ..., Xn) in the dataset.
+
+2.Prepare the Dataset
+Import the dataset and preprocess it (handle missing values, normalize, or standardize data if necessary).
+
+3.Split Data
+Divide the data into training and testing sets (e.g., 80% training, 20% testing).
+
+4.Initialize Model
+Use the SGDRegressor from the sklearn library. Specify parameters like loss='squared_error' and penalty (if regularization is desired).
+
+5.Train the Model
+Train the SGD model on the training dataset.
+
+6.Make Predictions
+Predict target values for the test set.
+
+7.Evaluate the Model
+Use metrics like Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared (R²) to evaluate model performance.
+
+8.Visualize (Optional)
+Visualize predicted vs actual results if dimensions permit.
+
 
 ## Program:
 ```
